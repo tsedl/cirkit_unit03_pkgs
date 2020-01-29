@@ -24,5 +24,5 @@
     version: master
 - git:
     local-name: cirkit_unit03_deps/steer_drive_ros
-    uri: https://github.com/CIR-KIT/steer_drive_ros.git
-    version: master
+    uri: https://github.com/tsedl/steer_drive_ros.git
+    version: melodic-devel
